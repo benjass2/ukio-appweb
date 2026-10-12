@@ -1,0 +1,46 @@
+{
+  "home": {
+    "title": "Ukio Cities",
+    "welcome": "Feel at home wherever you go"
+  },
+  "cities": {
+    "population": "Population",
+    "apartmentQuantity": "Quantity of Apartment"
+  },
+  "common": {
+    "loading": "Loading...",
+    "cancel": "Cancel",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "navigation": {
+    "home": "Home",
+    "apartments": "Apartments",
+    "slogan": "Feel at home"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "message": "The page you requested does not exist.",
+    "backHome": "Back to home"
+  },
+  "apartments": {
+    "title": "Rent Apartment",
+    "description": "Description",
+    "parking": "Parking Spaces",
+    "bedrooms": "Bedrooms",
+    "price": "Price",
+    "rent": "Rent",
+    "rentTitle": "Rent Apartment",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "makeRent": "Make a Rent",
+    "requiredFields": "Completing the quantity field is mandatory",
+    "invalidDates": "End date must be later than start date",
+    "confirmTitle": "Confirm Rental",
+    "confirmMessage": "Are you sure you want to rent this apartment?",
+    "rentSuccess": "Apartment rented successfully"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "cities": [
+    {
+      "cityId": 1,
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "population": 1660122,
+      "description": "A Mediterranean city known for its architecture, beaches and creative culture."
+    },
+    {
+      "cityId": 2,
+      "cityName": "Madrid",
+      "country": "Spain",
+      "population": 3332035,
+      "description": "Spain's capital, with lively neighborhoods, museums and business districts."
+    },
+    {
+      "cityId": 3,
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "population": 545796,
+      "description": "A coastal capital with historic streets, scenic viewpoints and a growing tech community."
+    },
+    {
+      "cityId": 4,
+      "cityName": "Paris",
+      "country": "France",
+      "population": 2102650,
+      "description": "A European cultural hub with art, gastronomy and iconic landmarks."
+    }
+  ],
+  "apartments": [
+    {
+      "id": 1,
+      "apartmentId": 1,
+      "cityId": 1,
+      "name": "Eixample Loft",
+      "numberBedrooms": 2,
+      "numberGarage": 1,
+      "Price": 2400,
+      "squareMeters": 85,
+      "description": "Bright furnished apartment near the city center.",
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-30",
+      "state": "C"
+    },
+    {
+      "id": 2,
+      "apartmentId": 2,
+      "cityId": 1,
+      "name": "Gracia Studio",
+      "numberBedrooms": 1,
+      "numberGarage": 0,
+      "Price": 1600,
+      "squareMeters": 48,
+      "description": "Cozy studio in a lively neighborhood.",
+      "startDate": null,
+      "endDate": null,
+      "state": "A"
+    },
+    {
+      "id": 3,
+      "apartmentId": 3,
+      "cityId": 2,
+      "name": "Salamanca Residence",
+      "numberBedrooms": 3,
+      "numberGarage": 1,
+      "Price": 3200,
+      "squareMeters": 115,
+      "description": "Spacious apartment with modern amenities.",
+      "startDate": null,
+      "endDate": null,
+      "state": "A"
+    },
+    {
+      "id": 4,
+      "apartmentId": 4,
+      "cityId": 2,
+      "name": "Malasana Flat",
+      "numberBedrooms": 1,
+      "numberGarage": 0,
+      "Price": 1800,
+      "squareMeters": 55,
+      "description": "Comfortable furnished flat near shops and cafes.",
+      "startDate": null,
+      "endDate": null,
+      "state": "A"
+    },
+    {
+      "id": 5,
+      "apartmentId": 5,
+      "cityId": 3,
+      "name": "Alfama View",
+      "numberBedrooms": 2,
+      "numberGarage": 0,
+      "Price": 2100,
+      "squareMeters": 72,
+      "description": "Sunny apartment overlooking historic Lisbon.",
+      "startDate": null,
+      "endDate": null,
+      "state": "A"
+    },
+    {
+      "id": 6,
+      "apartmentId": 6,
+      "cityId": 4,
+      "name": "Le Marais Suite",
+      "numberBedrooms": 2,
+      "numberGarage": 1,
+      "Price": 3500,
+      "squareMeters": 80,
+      "description": "Elegant apartment close to galleries and restaurants.",
+      "startDate": null,
+      "endDate": null,
+      "state": "A"
+    }
+  ]
+}

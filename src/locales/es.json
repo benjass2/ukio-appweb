@@ -1,0 +1,46 @@
+{
+  "home": {
+    "title": "Ciudades Ukio",
+    "welcome": "Siéntete en casa dondequiera que vayas"
+  },
+  "cities": {
+    "population": "Población",
+    "apartmentQuantity": "Cantidad de apartamentos"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "cancel": "Cancelar",
+    "yes": "Sí",
+    "no": "No"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "apartments": "Apartamentos",
+    "slogan": "Siéntete en casa"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados."
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "message": "La página solicitada no existe.",
+    "backHome": "Volver al inicio"
+  },
+  "apartments": {
+    "title": "Alquilar apartamento",
+    "description": "Descripción",
+    "parking": "Estacionamientos",
+    "bedrooms": "Habitaciones",
+    "price": "Precio",
+    "rent": "Alquilar",
+    "rentTitle": "Alquilar apartamento",
+    "startDate": "Fecha de inicio",
+    "endDate": "Fecha de fin",
+    "makeRent": "Realizar alquiler",
+    "requiredFields": "Las fechas de inicio y fin son obligatorias",
+    "invalidDates": "La fecha final debe ser posterior a la inicial",
+    "confirmTitle": "Confirmar alquiler",
+    "confirmMessage": "¿Estás seguro de alquilar este apartamento?",
+    "rentSuccess": "Apartamento alquilado correctamente"
+  }
+}
